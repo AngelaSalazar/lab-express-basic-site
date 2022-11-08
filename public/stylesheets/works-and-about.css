@@ -1,0 +1,34 @@
+*{
+    color:aliceblue;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    position:relative;
+    padding: 5%;
+}
+
+h2{
+    text-align: justify;
+}
+
+p{
+    text-align: justify;
+    padding-bottom: 2%;
+}
+
+a{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-right: 2%;
+}
+
+.space{
+    padding-bottom: 6%;
+}

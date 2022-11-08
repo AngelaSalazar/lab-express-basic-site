@@ -1,0 +1,29 @@
+*{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:aliceblue;
+    text-align: center;
+}
+
+body{
+    background-image: url(/images/judith-beheading-holofernes.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+}
+
+h1{
+    font-size: 250%;
+    position:relative;
+    padding-top: 25%;
+    -webkit-text-stroke: 0.7px rgb(255, 0, 0);
+}
+
+p{
+    font-size:larger;
+    padding-bottom: 20%;
+    -webkit-text-stroke: 0.7px rgb(255, 0, 0);
+}
+
+a{
+    padding: 2%;
+}
